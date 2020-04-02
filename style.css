@@ -1,0 +1,68 @@
+body{
+	font-family: ariel;
+	font-size: 15px;
+	background-color:#6F914F;
+}
+.clearfix:after{
+	content: "";
+	display: table;
+	clear: both;
+}
+h1{
+	margin-bottom: 8%;
+	margin-left: 30%;
+}
+
+	
+
+}
+header {
+	color: white;
+}
+.team{
+	float: left;
+	width: 30%;
+	margin-bottom: 5%;
+	margin-left: 0;
+	margin-right: 3.33%;
+	background-color: #6F914F;
+background-image: url(https://pixabay.com/illustrations/dog-wolf-yelp-moon-tree-night-647528/);
+
+}
+.dream{
+	float: left;
+	width: 30%;
+	margin-right: 3.33%;
+
+}
+.peak{
+	
+	float:left;
+	width: 30%;
+	margin-right: 3.33%;
+	text-align: justify;
+
+}
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-color: #6F914F;
+	font-family: sans-serif;
+}
+.author{
+
+	padding-top: 50;
+}
+.author img{
+	border-radius: 50%;
+}
+.ind{
+	float: left;
+}
+.imo {
+	margin-left: 5%;
+}
+.dett{
+	margin: 0;
+}
